@@ -1,2 +1,3 @@
 Here is a second file
+here is a new second line
 It is also a great file
